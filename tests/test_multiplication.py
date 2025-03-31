@@ -1,4 +1,4 @@
-import multiplication
+import calculation.multiplication as multiplication
 
 def test_multiplication():
     # Assert
